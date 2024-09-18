@@ -16,7 +16,7 @@
     "@aps_sdk/oss": "0.1.0-beta.1",
     "aps-simple-viewer-nodejs": "file:",
     "dotenv": "^16.4.1",
-    "express": "^4.18.2",
+    "express": "^4.20.0",
     "express-formidable": "^1.2.0"
   },
   "devDependencies": {
